@@ -21,6 +21,3 @@
 <a href="mailto:erminio.ricciardi@gmail.com">![erminio.ricciardi@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/Herminius/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
-<img width="25%" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/integrityIllusion_logo_github_readme.svg" />
-<img width="25%" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/infranto_logo_Tv_github_readme.svg" />
-<img width="25%" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/mahekeh_logo_github_readme.svg" />
