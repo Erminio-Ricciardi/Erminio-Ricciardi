@@ -31,6 +31,9 @@ __Inspiration__
 The Concept draws its inspiration from a mythological vision of the Opera, in which an often perceptible indication is manifested only through an abstraction beyond man himself
 The technique used has its roots in the concepts of Divisionism and Macchiaioli, transferring the importance entrusted to colors to that of shapes.
 
+<p align="center">
+<img width="25%" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/herminius_logo_classic_github_readme.svg" />
+</p>
 
 <h2> Contacts </h2>
 
@@ -42,8 +45,3 @@ The technique used has its roots in the concepts of Divisionism and Macchiaioli,
 
 
 <a href="mailto:erminio.ricciardi@gmail.com">![erminio.ricciardi@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/Herminius/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-
-<p align="center">
-<img width="25%" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/herminius_logo_classic_github_readme.svg" />
-</p>
