@@ -37,7 +37,6 @@ The technique used has its roots in the concepts of Divisionism and Macchiaioli,
 -  :diamonds: Web3 Connection: [herminius.eth](https://herminius.eth.limo) 
 - 📮 Mail: [erminio.ricciardi@gmail.com](mailto:erminio.ricciardi@gmail.com)
 
- <img width="25%" align="right" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/herminius_logo_classic_github_readme.svg" />
 
 <h2>:black_nib: How to reach me:</h2>
 
@@ -45,3 +44,4 @@ The technique used has its roots in the concepts of Divisionism and Macchiaioli,
 <a href="mailto:erminio.ricciardi@gmail.com">![erminio.ricciardi@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/Herminius/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
+ <img width="25%" align="center" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/herminius_logo_classic_github_readme.svg" />
