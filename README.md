@@ -1,7 +1,7 @@
 
 ![Herminius](https://github.com/Erminio-Ricciardi/Herminius/blob/main/herminius_banner_github_readme.svg)
 
-<h1 align=center> ***Herminious*** </h1>
+<h1 align=center style="font-weight: bold"> Herminious </h1>
 
 
 
