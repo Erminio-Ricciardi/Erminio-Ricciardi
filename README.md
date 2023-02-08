@@ -37,8 +37,7 @@ The technique used has its roots in the concepts of Divisionism and Macchiaioli,
 -  :diamonds: Web3 Connection: [herminius.eth](https://herminius.eth.limo) 
 - 📮 Mail: [erminio.ricciardi@gmail.com](mailto:erminio.ricciardi@gmail.com)
 
- <img width="10%" align="right" src="(https://github.com/Erminio-Ricciardi/Herminius/blob/main/herminius_logo_classic_github_readme.svg)"/>
- <img width="10%" align="right" src="https://github.com/Integrity-Illusion/Integrity-Illusion/blob/main/integrityIllusion_logo_github_readme.svg" />
+ <img width="10%" align="right" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/herminius_logo_classic_github_readme.svg" />
 
 <h2>:black_nib: How to reach me:</h2>
 
