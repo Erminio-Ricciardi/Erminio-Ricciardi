@@ -1,5 +1,5 @@
 
-![Herminius](https://github.com/Erminio-Ricciardi/Herminius/blob/main/herminius_banner_github_readme.svg))
+![Herminius](https://github.com/Erminio-Ricciardi/Herminius/blob/main/herminius_banner_github_readme.svg)
 
 <h1 align=center> Demarcation </h1>
 
@@ -34,7 +34,7 @@ The technique used has its roots in the concepts of Divisionism and Macchiaioli,
 
 <h2> Contacts </h2>
 
--  :nerd_face: Web3 Connection: [herminius.eth](https://herminius.eth.limo) 
+-  Ξ Web3 Connection: [herminius.eth](https://herminius.eth.limo) 
 - 📮 Mail: [erminio.ricciardi@gmail.com](mailto:erminio.ricciardi@gmail.com)
 
  <img width="10%" align="right" src="https://github.com/Integrity-Illusion/Integrity-Illusion/blob/main/integrityIllusion_logo_github_readme.svg" />
