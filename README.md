@@ -4,10 +4,11 @@
 <h1 align=center> Herminius </h1>
 
 
-Solarized dark             |  Solarized Ocean        
-:-------------------------:|:-------------------------:
-![](https://...Dark.png)  |  ![](https://...Ocean.png)
-
+| Integrity Illusion | Infranto | Mahekeh |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|<p align="center"><img width="50%" alt="integirty_illusion" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/integrityIllusion_logo_github_readme.svg"></p> Fragmented Art |  <p align="center"><img width="50%" alt="integirty_illusion" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/infranto_logo_Tv_github_readme.svg"></p> Your Trash, My Treasure|<p align="center"><img width="50%" alt="integirty_illusion" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/mahekeh_logo_github_readme.svg"></p> Impact Team|
+| | | |
+|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
 
 
 <p align="center">
