@@ -25,7 +25,7 @@
 - 📮 Mail: [erminio.ricciardi@gmail.com](mailto:erminio.ricciardi@gmail.com)
 
 
-<h2>:black_nib: How to reach me:</h2>
+<h2>:black_nib: How to reach me</h2>
 
 
 <a href="mailto:erminio.ricciardi@gmail.com">![erminio.ricciardi@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/Herminius/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
