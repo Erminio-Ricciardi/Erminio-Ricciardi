@@ -4,6 +4,11 @@
 <h1 align=center> Herminius </h1>
 
 
+Solarized dark             |  Solarized Ocean        
+:-------------------------:|:-------------------------:
+![](https://...Dark.png)  |  ![](https://...Ocean.png)
+
+
 
 <p align="center">
 <img width="25%" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/herminius_logo_classic_github_readme.svg" />
