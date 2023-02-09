@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="integrityIllusion_logo" xmlns="http://www.w3.org/2000/svg"
+  viewBox="-51.7 -59.17 350 350">
+  <circle cx="123.8" cy="116.33" r="175"
+    style="fill: #fff">
+    <animate id="fill_background_1d" attributeName="fill" from="#fff" to="#1d1d1b"
+      begin="60s;fill_background_avorio_freeze.end" dur="2s" />
+    <animate id="fill_background_1d_freeze" attributeName="fill" values="#1d1d1b"
+      begin="fill_background_1d.end" dur="58s" />
+    <animate id="fill_background_avorio" attributeName="fill" from="#1d1e1b" to="#fff"
+      begin="fill_background_1d_freeze.end" dur="2s" />
+    <animate id="fill_background_avorio_freeze" attributeName="fill" values="#fff"
+      begin="fill_background_avorio.end" dur="58s" />
+  </circle>
+  <circle id="core" cx="123.3" cy="115.83" r="40.32"
+    style="fill: #1d1e1b; stroke:#1d1e1b;stroke-miterlimit: 10; stroke-width: 1px;">
+    <animate id="fill_camaleonte_1d" attributeName="fill"
+      values="#1b1e1d;#ff0000;#ffff00;#00ff00;#0000ff;#7a6167"
+      dur="60s" keytimes="0;0.1;0.25;0.5;0.75;1" begin="30s" repeatCount="indefinite"></animate>
+    <animate id="stroke_circle_avorio" attributeName="stroke" from="#1d1e1b" to="#fff"
+      begin="60s;stroke_circle_1d_freeze.end" dur="3s" />
+    <animate id="stroke_circle_avorio_freeze" attributeName="stroke" values="#fff"
+      begin="stroke_circle_avorio.end" dur="57s" />
+    <animate id="stroke_circle_1d" attributeName="stroke" from="#fff" to="#1d1d1b"
+      begin="stroke_circle_avorio_freeze.end" dur="3s" />
+    <animate id="stroke_circle_1d_freeze" attributeName="stroke" values="#1d1d1b"
+      begin="stroke_circle_1d.end" dur="57s" />
+  </circle>
+  <g id="shell" style="fill: #1d1d1b">
+    <path
+      d="M155.56,8.86h0c0,3.38,2.16,6.29,5.32,7.49,40.16,15.22,68.79,54.06,68.79,99.48s-28.63,84.27-68.79,99.48c-3.16,1.2-5.32,4.11-5.32,7.49h0c0,5.61,5.65,9.52,10.9,7.53,46.3-17.49,79.35-62.16,79.35-114.51S212.75,18.81,166.45,1.32c-5.25-1.98-10.9,1.92-10.9,7.53Z"
+      style="stroke: #1d1d1b; stroke-miterlimit: 10; stroke-width: 1.6px;" />
+    <path
+      d="M91.04,222.8c0-3.38-2.16-6.29-5.32-7.49-40.15-15.22-68.79-54.06-68.79-99.48S45.56,31.57,85.72,16.35c3.16-1.2,5.32-4.11,5.32-7.49h0c0-5.61-5.65-9.52-10.9-7.53C33.85,18.81,.8,63.48,.8,115.83s33.05,97.02,79.34,114.51c5.25,1.98,10.9-1.92,10.9-7.53h0Z"
+      style="stroke: #1d1d1b; stroke-miterlimit: 10; stroke-width: 1.6px;" />
+    <animateTransform id="shell_rotazione" attributeName="transform" attributeType="XML"
+      type="rotate"
+      from="0 123.3 115.83"
+      to="360 123.3 115.83" dur="60s" repeatCount="indefinite" />
+    <animate id="fill_shell_avorio" attributeName="fill" from="#1d1e1b" to="#fff"
+      begin="60s;fill_shell_1d_freeze.end" dur="3s" />
+    <animate id="fill_shell_avorio_freeze" attributeName="fill" values="#fff"
+      begin="fill_shell_avorio.end" dur="57s" />
+    <animate id="fill_shell_1d" attributeName="fill" from="#fff" to="#1d1d1b"
+      begin="fill_shell_avorio_freeze.end" dur="3s" />
+    <animate id="fill_shell_1d_freeze" attributeName="fill" values="#1d1d1b"
+      begin="fill_shell_1d.end" dur="57s" />
+  </g>
+</svg>
