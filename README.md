@@ -7,9 +7,12 @@
 
 | Integrity Illusion | Infranto | Mahekeh |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<p align="center"><img width="50%" alt="integirty_illusion" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/integrityIllusion_logo_github_readme.svg"></p> Fragmented Art |  <p align="center"><img width="50%" alt="integirty_illusion" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/infranto_logo_Tv_github_readme.svg"></p> Your Trash, My Treasure|<p align="center"><img width="50%" alt="integirty_illusion" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/mahekeh_logo_github_readme.svg"></p> Impact Team|
-| | | |
-|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">  |  <img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|<img width="1604" alt="screen shot 2017-08-07 at 12 18 15 pm" src="https://user-images.githubusercontent.com/297678/29892310-03e92256-8d83-11e7-9b58-986dcb6f702e.png">|
+|<p align="center"><img width="50%" alt="integirty_illusion" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/integrityIllusion_logo_github_readme.svg"></p> Fragmented Art |  <p align="center"><img width="50%" alt="infranto" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/infranto_logo_Tv_github_readme.svg"></p> Your Trash, My Treasure|<p align="center"><img width="50%" alt="mahekeh" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/mahekeh_logo_github_readme.svg"></p> Impact Team|
+| Iurta | SIDT | Criptolab |
+|<p align="center"><img width="50%" alt="iurta" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/iurta_saiga_logo_github_readme.svg"></p> Follow the World |  <p align="center"><img width="50%" alt="SIDT" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/SIDT_logo_github_readme.svg"></p> Società Italiana Docenti Trasporti|<p align="center"><img width="50%" alt="criptolab" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/criptolab_logo_github_readme.svg"></p> Web3 Agency|
+| | Hydrosanitech | | 
+||<p align="center"><img width="50%" alt="hydrosanitech" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/hydro_logo_rubinetto_github_readme.svg"></p> Water Purification ||
+
 
 
 <p align="center">
