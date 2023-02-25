@@ -3,10 +3,8 @@
 
 <h1 align=center> Herminius </h1>
 
-<ul style="list-style-type: none">
-<li>:globe_with_meridians: Web3 enthusiastic</li>
-<li>:zap: Technology Lover</li> 
-</ul>
+- :globe_with_meridians: Web3 enthusiastic
+- :zap: Technology Lover
 
 
 
