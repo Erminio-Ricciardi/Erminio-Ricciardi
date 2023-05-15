@@ -4,7 +4,9 @@
 <h1 align=center> Herminius </h1>
 
 - :globe_with_meridians: Web3 explorer
-- :zap: Technology Lover
+- 🐺 @urbeEth CA
+- 🏛️ @ethereumrome ETHRome Organizer
+- 🤖 @robitsxyz Creator
 
 
 
