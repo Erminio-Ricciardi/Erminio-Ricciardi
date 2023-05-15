@@ -6,7 +6,7 @@
 - :globe_with_meridians: Web3 explorer
 - 🐺 @urbeEth CA
 - 🏛️ @ethereumrome ETHRome Organizer
-- 🤖 @robitsxyz Creator
+- 🤖 @robitsxyz RoBits Creator
 
 
 
