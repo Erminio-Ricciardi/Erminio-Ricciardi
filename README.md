@@ -17,8 +17,8 @@
 |<p align="center"><img width="50%" alt="integirty_illusion" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/integrityIllusion_logo_github_readme.svg"></p> Fragmented Art |  <p align="center"><img width="50%" alt="infranto" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/infranto_logo_Tv_github_readme.svg"></p> Your Trash, My Treasure|<p align="center"><img width="50%" alt="mahekeh" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/mahekeh_logo_github_readme.svg"></p> Impact Team|
 | Iurta | SIDT | Criptolab |
 |<p align="center"><img width="50%" alt="iurta" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/iurta_saiga_logo_github_readme.svg"></p> Chase the World |  <p align="center"><img width="50%" alt="SIDT" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/SIDT_logo_github_readme.svg"></p> Società Italiana Docenti Trasporti|<p align="center"><img width="50%" alt="criptolab" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/criptolab_logo_github_readme.svg"></p> Web3 Agency|
-| | Hydrosanitech | | 
-||<p align="center"><img width="50%" alt="hydrosanitech" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/hydro_logo_rubinetto_github_readme.svg"></p> Water Purification ||
+| MonAIker | Hydrosanitech | | 
+|<p align="center"><img width="50%" alt="monaiker" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/monaiker_logo_github_readme.svg"></p> AI-Driven Images |<p align="center"><img width="50%" alt="hydrosanitech" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/hydro_logo_rubinetto_github_readme.svg"></p> Water Purification ||
 
 
 
