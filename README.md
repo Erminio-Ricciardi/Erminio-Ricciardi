@@ -4,9 +4,10 @@
 <h1 align=center> Herminius </h1>
 
 - :globe_with_meridians: Web3 explorer
-- 🐺 @urbeEth CA
-- 🏛️ @ethereumrome ETHRome Organizer
-- 🤖 @robitsxyz RoBits Creator
+- 🐺 @urbeEth | Associate
+- 🏛️ @ETHRome | ETHRome Organizer
+- 🤖 @robitsxyz | RoBits Creator
+- 🍺 @hoperaxyz | Hopera Founder
 
 
 
@@ -19,6 +20,8 @@
 |<p align="center"><img width="50%" alt="iurta" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/iurta_saiga_logo_github_readme.svg"></p> Chase the World |  <p align="center"><img width="50%" alt="SIDT" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/SIDT_logo_github_readme.svg"></p> Società Italiana Docenti Trasporti|<p align="center"><img width="50%" alt="criptolab" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/criptolab_logo_github_readme.svg"></p> Web3 Agency|
 | <a href="https://monaiker.art">MonAIker<a> | <a href="https://hydrosanitech.com">Hydrosanitech<a> | <a href="https://robits.xyz">RoBits</a> | 
 |<p align="center"><img width="50%" alt="monaiker" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/monaiker_logo_github_readme.svg"></p> AI-Driven Images |<p align="center"><img width="50%" alt="hydrosanitech" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/hydro_logo_rubinetto_github_readme.svg"></p> Water Purification |<p align="center"><img width="50%" alt="robits" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/robits_logo_face_github_readme.svg"></p> EVM ASCII RoBits |
+| <a href="https://hopera.xyz">Hopera<a> |  |  |
+|<p align="center"><img width="50%" alt="hopera" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/hopera_logo.jpg"></p> Crafting Events |
 
 
 
