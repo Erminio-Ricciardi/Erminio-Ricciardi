@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Livello_1" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 237.84 237.84">
+  <defs>
+    <filter id="drop-shadow-1" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur" stdDeviation="1"/>
+      <feFlood flood-color="#1d1d1b" flood-opacity=".75"/>
+      <feComposite in2="blur" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-2" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur-2" stdDeviation="1"/>
+      <feFlood flood-color="#1d1d1b" flood-opacity=".75"/>
+      <feComposite in2="blur-2" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-3" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur-3" stdDeviation="1"/>
+      <feFlood flood-color="#1d1d1b" flood-opacity=".75"/>
+      <feComposite in2="blur-3" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-4" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur-4" stdDeviation="1"/>
+      <feFlood flood-color="#1d1d1b" flood-opacity=".75"/>
+      <feComposite in2="blur-4" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="drop-shadow-5" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="1"/>
+      <feGaussianBlur result="blur-5" stdDeviation="1"/>
+      <feFlood flood-color="#1d1d1b" flood-opacity=".75"/>
+      <feComposite in2="blur-5" operator="in"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <polygon points="175.15 166.63 65.82 214.83 2.19 50.43 111.52 2.23 175.15 166.63" style="fill: #d62c16; filter: url(#drop-shadow-1);"/>
+  <polygon points="185.2 181.01 69.93 209.38 32.48 36.06 147.75 7.69 185.2 181.01" style="fill: #e97722; filter: url(#drop-shadow-2);"/>
+  <polygon points="188.03 202.4 69.8 206.53 64.36 28.75 182.58 24.63 188.03 202.4" style="fill: #e5da12; filter: url(#drop-shadow-3);"/>
+  <polygon points="192.15 215.31 74.5 202.14 91.88 25.24 209.53 38.41 192.15 215.31" style="fill: #0c9439; filter: url(#drop-shadow-4);"/>
+  <polygon points="190.61 233.72 76.34 201.1 119.4 29.26 233.67 61.88 190.61 233.72" style="fill: #2e8fce; filter: url(#drop-shadow-5);"/>
+</svg>
