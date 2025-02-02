@@ -5,9 +5,9 @@
 
 - :globe_with_meridians: Web3 explorer
 - 🐺 @urbeEth | Associate
-- 🏛️ @ETHRome | ETHRome Organizer
-- 🤖 @robitsxyz | RoBits Creator
-- 🍺 @hoperaxyz | Hopera Founder
+- 🏛️ @ETHRome | Organizer
+- 🤖 @robitsxyz | Creator
+- 🍺 @hoperaxyz | Founder
 
 
 
