@@ -1,47 +1,96 @@
-
-![Herminius](https://github.com/Erminio-Ricciardi/Herminius/blob/main/herminius_banner_github_readme.svg)
-
-<h1 align=center> Herminius </h1>
-
-- :globe_with_meridians: Web3 explorer
-- 🐺 @urbeEth | Associate
-- 🏛️ @ETHRome | Organizer
-- 🤖 @robitsxyz | Creator
-- 🍺 @hoperaxyz | Founder
-
-
-
-<h2 align="center"> Web </h2>
-
-| <a href="https://hopera.xyz">Hopera</a> | <a href="https://ethrome.org">ETHRome<a> | <a href="https://integrityillusion.com">Integrity Illusion</a> |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<p align="center"><img width="50%" alt="hopera" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/hopera_logo.jpg"></p> Crafting Events | <p align="center"><img width="43%" alt="ETHRome" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/ETHRome_logo_github_readme.svg"></p> Web3 Hackathon | <p align="center"><img width="50%" alt="integirty_illusion" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/integrityIllusion_logo_github_readme.svg"></p> Fragmented Art |
-| <a href="https://robits.xyz">RoBits</a> | <a href="https://infranto.com">Infranto</a> | <a href="https://iurta.xyz">Iurta</a> |
-|<p align="center"><img width="50%" alt="robits" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/robits_logo_face_github_readme.svg"></p> EVM ASCII RoBits | <p align="center"><img width="43%" alt="infranto" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/infranto_logo_Tv_github_readme.svg"></p> Your Trash, My Treasure | <p align="center"><img width="50%" alt="iurta" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/iurta_saiga_logo_github_readme.svg"></p> Chase the World |
-| <a href="https://mahekeh.xyz">Mahekeh</a> | <a href="https://monaiker.art">MonAIker<a> | <a href="https://erminio-ricciardi.github.io/criptolab-website">Criptolab</a> |
-|<p align="center"><img width="50%" alt="mahekeh" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/mahekeh_logo_github_readme.svg"></p> Impact Team |<p align="center"><img width="43%" alt="monaiker" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/monaiker_logo_github_readme.svg"></p> AI-Driven Images |<p align="center"><img width="50%" alt="criptolab" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/criptolab_logo_github_readme.svg"></p> Web3 Agency |
-| <a href="https://www.docentitrasporti.it">SIDT<a> | <a href="https://www.cartotecnicataglione.com/">Taglione<a> | <a href="https://hydrosanitech.com">Hydrosanitech<a> | 
-|<p align="center"><img width="50%" alt="SIDT" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/SIDT_logo_github_readme.svg"></p> Società Italiana Docenti Trasporti | <p align="center"><img width="43%" alt="Taglione" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/taglione_logo_risma_github_readme.svg"></p> Cartotecnica |<p align="center"><img width="50%" alt="hydrosanitech" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/loghi_portfolio/hydro_logo_rubinetto_github_readme.svg"></p> Water Purification |
-
-
-
-
-
-
-
+<h1 align="center">Hi 👋, herminius here</h1>
 <p align="center">
-<img width="25%" src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/herminius_logo_classic_github_readme.svg" />
+  <em>a digital mind in an analog heart.</em>
 </p>
 
-<h2> Contacts </h2>
+<p align="center">
+  <a href="https://x.com/herminius_eth" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X / Twitter" />
+  </a>
+</p>
 
--  :diamonds: Web3 Connection: [herminius.eth](https://herminius.eth.limo) 
-- 📮 Mail: [erminio.ricciardi@gmail.com](mailto:erminio.ricciardi@gmail.com)
+<br>
 
+<div>
+  <img align="right" src="https://raw.githubusercontent.com/Erminio-Ricciardi/Erminio-Ricciardi/main/bioChania_bw" width="300" height="300" alt="Tech Stack Animazione" />
 
-<h2>:black_nib: How to reach me</h2>
+  <h3>💫 About Me</h3>
+  <ul>
+    <li>🌐 <b>Web3 explorer</b></li>
+    <li>🐺 <b>@urbeEth</b> | Team</li>
+    <li>🏛️ <b>@ETHRome</b> | Organizer</li>
+    <li>🤖 <b>@robitsxyz</b> | Creator</li>
+    <li>🍺 <b>@hoperaxyz</b> | Founder</li>
+  </ul>
+</div>
 
+<br clear="all" />
 
-<a href="mailto:erminio.ricciardi@gmail.com">![erminio.ricciardi@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/Herminius/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+---
 
+### 🛠️ Skills & Technologies
 
+**Frontend Development** <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css&theme=dark" alt="Frontend Skills"/>
+  </a>
+</p>
+
+**Backend & Tools** <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,docker&theme=dark" alt="Backend and Tools"/>
+  </a>
+</p>
+
+**Blockchain & Web3** <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=solidity,ipfs&theme=dark" alt="Web3 Skills"/>
+  </a>
+</p>
+
+**Design & 3D** <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,blender,ai,ps&theme=dark" alt="Design and 3D"/>
+  </a>
+</p>
+
+**OS & Environments** <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,debian,redhat,bsd&theme=dark" alt="OS and Environments"/>
+  </a>
+</p>
+
+**Devices** <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" alt="OS and Environments"/>
+  </a>
+</p>
+
+---
+
+### Projects and Partners
+
+<div align="center">
+  <a href="https://www.hopera.xyz" target="_blank"><img src="https://raw.githubusercontent.com/Erminio-Ricciardi/Erminio-Ricciardi/main/loghi_portfolio/hopera_logo.jpg" height="70" alt="Hopera" hspace="15" vspace="15" /></a>
+  <a href="https://www.ethrome.org" target="_blank"><img src="https://raw.githubusercontent.com/Erminio-Ricciardi/Erminio-Ricciardi/main/loghi_portfolio/ETHRome_logo_github_readme.svg" height="70" alt="ETHRome" hspace="15" vspace="15" /></a>
+  <a href="https://www.integrityillusion.art" target="_blank"><img src="https://raw.githubusercontent.com/Erminio-Ricciardi/Erminio-Ricciardi/main/loghi_portfolio/integrityIllusion_logo_github_readme.svg" height="70" alt="Integrity Illusion" hspace="15" vspace="15" /></a>
+  <a href="https://www.robits.xyz" target="_blank"><img src="https://raw.githubusercontent.com/Erminio-Ricciardi/Erminio-Ricciardi/main/loghi_portfolio/robits_logo_face_github_readme.svg" height="70" alt="Robits" hspace="15" vspace="15" /></a>
+  <a href="https://www.infranto.com" target="_blank"><img src="https://raw.githubusercontent.com/Erminio-Ricciardi/Erminio-Ricciardi/main/loghi_portfolio/infranto_logo_Tv_github_readme.svg" height="70" alt="Infranto" hspace="15" vspace="15" /></a>
+  <a href="https://www.monaiker.github.io" target="_blank"><img src="https://raw.githubusercontent.com/Erminio-Ricciardi/Erminio-Ricciardi/main/loghi_portfolio/monaiker_logo_github_readme.svg" height="70" alt="Monaiker" hspace="15" vspace="15" /></a>
+  <a href="https://www.docentitrasporti.it/" target="_blank"><img src="https://raw.githubusercontent.com/Erminio-Ricciardi/Erminio-Ricciardi/main/loghi_portfolio/SIDT_logo_github_readme.svg" height="70" alt="SIDT" hspace="15" vspace="15" /></a>
+  <a href="https://www.cartotecnicataglione.com" target="_blank"><img src="https://raw.githubusercontent.com/Erminio-Ricciardi/Erminio-Ricciardi/main/loghi_portfolio/taglione_logo_risma_github_readme.svg" height="70" alt="Cartotecnica Taglione" hspace="15" vspace="15" /></a>
+  <a href="https://www.talys.xyz" target="_blank"><img src="https://raw.githubusercontent.com/Erminio-Ricciardi/Erminio-Ricciardi/main/loghi_portfolio/talys_logo_risma_github_readme.svg" height="70" alt="Talys" hspace="15" vspace="15" /></a>
+  <a href="" target="_blank"><img src="https://raw.githubusercontent.com/Erminio-Ricciardi/Erminio-Ricciardi/main/loghi_portfolio/chefbasil_logo_github_readme.png" height="70" alt="Ricettario" hspace="15" vspace="15" /></a>
+</div>
+
+---
+
+### 📫 Contacts
+- 🕸️ **Web3 Connection:** `herminius.eth`
+- 📮 **Mail:** `herminius.eth@gmail.com`
+
+<br/>
+
+<p align="center">
+  <img src="https://github.com/Erminio-Ricciardi/Herminius/blob/main/herminius_banner_github_readme.svg" alt="Herminius Banner" />
+</p>
