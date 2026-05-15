@@ -12,7 +12,7 @@
 <br>
 
 <div>
-  <img align="right" src="https://raw.githubusercontent.com/Erminio-Ricciardi/Erminio-Ricciardi/main/bioChania_bw" width="300" height="300" alt="Tech Stack Animazione" />
+  <img align="right" src="https://raw.githubusercontent.com/Erminio-Ricciardi/Erminio-Ricciardi/main/bioChania_bw.png" width="300" height="300" alt="herminius Chania" />
 
   <h3>💫 About Me</h3>
   <ul>
