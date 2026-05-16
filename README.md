@@ -78,7 +78,7 @@
   <a href="https://www.infranto.com" target="_blank"><img src="loghi_portfolio/infranto_logo_Tv_github_readme.svg" height="60" alt="Infranto" hspace="10" vspace="10" /></a>
   <a href="https://www.monaiker.github.io" target="_blank"><img src="loghi_portfolio/monaiker_logo_github_readme.svg" height="60" alt="Monaiker" hspace="10" vspace="10" /></a>
   <a href="https://www.docentitrasporti.it/" target="_blank"><img src="loghi_portfolio/SIDT_logo_github_readme.svg" height="60" alt="SIDT" hspace="10" vspace="10" /></a>
-  <a href="https://www.cartotecnicataglione.com" target="_blank"><img src="loghi_portfolio/taglione_logo_risma_github_readme.svg" height="60" alt="Cartotecnica Taglione" hspace="10" vspace="10" /></a>
+  <a href="https://www.cartotecnicataglione.it" target="_blank"><img src="loghi_portfolio/taglione_logo_risma_github_readme.svg" height="60" alt="Cartotecnica Taglione" hspace="10" vspace="10" /></a>
   <a href="https://www.talys.xyz" target="_blank"><img src="loghi_portfolio/talys_logo_github_readme.svg" height="60" alt="Talys" hspace="10" vspace="10" /></a>
   <a href="" target="_blank"><img src="loghi_portfolio/chefBasil_logo_github_readme.png" height="60" alt="Ricettario" hspace="10" vspace="10" /></a>
 </p>
