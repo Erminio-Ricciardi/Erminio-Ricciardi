@@ -73,10 +73,10 @@
 <p align="left">
   <a href="https://www.hopera.xyz" target="_blank"><img src="loghi_portfolio/hopera_logo.jpg" height="60" alt="Hopera" hspace="10" vspace="10" /></a>
   <a href="https://www.ethrome.org" target="_blank"><img src="loghi_portfolio/ETHRome_logo_github_readme.svg" height="60" alt="ETHRome" hspace="10" vspace="10" /></a>
-  <a href="https://www.integrityillusion.art" target="_blank"><img src="loghi_portfolio/integrityIllusion_logo_github_readme.svg" height="60" alt="Integrity Illusion" hspace="10" vspace="10" /></a>
-  <a href="https://www.robits.xyz" target="_blank"><img src="loghi_portfolio/robits_logo_face_github_readme.svg" height="60" alt="Robits" hspace="10" vspace="10" /></a>
-  <a href="https://www.infranto.com" target="_blank"><img src="loghi_portfolio/infranto_logo_Tv_github_readme.svg" height="60" alt="Infranto" hspace="10" vspace="10" /></a>
-  <a href="https://www.monaiker.github.io" target="_blank"><img src="loghi_portfolio/monaiker_logo_github_readme.svg" height="60" alt="Monaiker" hspace="10" vspace="10" /></a>
+  <a href="https://integrityillusion.art" target="_blank"><img src="loghi_portfolio/integrityIllusion_logo_github_readme.svg" height="60" alt="Integrity Illusion" hspace="10" vspace="10" /></a>
+  <a href="https://robits.xyz" target="_blank"><img src="loghi_portfolio/robits_logo_face_github_readme.svg" height="60" alt="Robits" hspace="10" vspace="10" /></a>
+  <a href="https://infranto.com" target="_blank"><img src="loghi_portfolio/infranto_logo_Tv_github_readme.svg" height="60" alt="Infranto" hspace="10" vspace="10" /></a>
+  <a href="https://monaiker.github.io" target="_blank"><img src="loghi_portfolio/monaiker_logo_github_readme.svg" height="60" alt="Monaiker" hspace="10" vspace="10" /></a>
   <a href="https://www.docentitrasporti.it/" target="_blank"><img src="loghi_portfolio/SIDT_logo_github_readme.svg" height="60" alt="SIDT" hspace="10" vspace="10" /></a>
   <a href="https://www.cartotecnicataglione.it" target="_blank"><img src="loghi_portfolio/taglione_logo_risma_github_readme.svg" height="60" alt="Cartotecnica Taglione" hspace="10" vspace="10" /></a>
   <a href="https://www.talys.xyz" target="_blank"><img src="loghi_portfolio/talys_logo_github_readme.svg" height="60" alt="Talys" hspace="10" vspace="10" /></a>
